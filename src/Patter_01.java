@@ -56,12 +56,6 @@ public class Patter_01 {
 
 
 
-           total rows = 5
-           1st row - 1 coloumn
-           2nd row - 2 coloumn
-           3rd row - 3 coloumn
-           4th row - 4 coloumn
-           5th row - 5 coloumn
 
 
 
